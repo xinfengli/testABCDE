@@ -9,3 +9,5 @@ logs
 .project
 .settings/
 disconf/
+
+*workspace.xml
